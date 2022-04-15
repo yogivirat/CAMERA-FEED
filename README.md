@@ -1,4 +1,4 @@
-# CAMERA-FEED
+# VIDEO-STREAM
 Video streaming using Raspberry pi zero and Raspberry pi camera Module. 
 
 Arthur  :  https://github.com/yogivirat
