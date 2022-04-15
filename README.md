@@ -88,6 +88,6 @@ sudo pip3 install opencv-python
   ```
  
  
-This Project is very useful in many ways such as surveillance camera and in Camera in Prometric Examination Halls.
+This Project is very useful in many ways such as surveillance camera and monitoring Camera in Prometric Examination Halls.
 
 Happy Coding !!
